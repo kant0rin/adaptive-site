@@ -8,7 +8,7 @@ const Main: FunctionComponent<Props> = (props) => {
 
   return (
       <section className="main relative z-[1] h-[684px]">
-          <img src="/public/main/Rectangle 85.png" alt="building_photo" className='absolute top-[-116px] right-0 w-[1325px] h-[800px] object-cover opacity-30 lg:opacity-100 '/>
+          <img src="../main/Rectangle 85.png" alt="building_photo" className='absolute top-[-116px] right-0 w-[1325px] h-[800px] object-cover opacity-30 lg:opacity-100 '/>
           <div className="container relative top-[150px] sm:top-0">
               <div className="sm:top-[72px] left-0  sm:left-5 sm:absolute relative flex-col flex justify-center items-center sm:block">
                   <h1 className='h1-40 sm:!text-[50px] sm:max-w-[540px]  sm:text-start text-center'>
